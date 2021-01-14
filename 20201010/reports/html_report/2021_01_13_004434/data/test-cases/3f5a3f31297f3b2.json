@@ -1,0 +1,62 @@
+{
+  "uid" : "3f5a3f31297f3b2",
+  "name" : "[title]case02 验证正确的用户名和密码登录是否失败",
+  "fullName" : "test_login_03.TestLogin03#test_login_fail",
+  "historyId" : "46b2291aaaf2b24f249ca69daef530f8",
+  "time" : {
+    "start" : 1610469875129,
+    "stop" : 1610469875129,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "[story]登录模块"
+  }, {
+    "name" : "epic",
+    "value" : "[epic]italki_学生管理系统"
+  }, {
+    "name" : "feature",
+    "value" : "[feature]italki_学生管理系统V1.0"
+  }, {
+    "name" : "suite",
+    "value" : "test_login_03"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin03"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-2BN94328"
+  }, {
+    "name" : "thread",
+    "value" : "15076-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_login_03"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3f5a3f31297f3b2.json",
+  "parameterValues" : [ ]
+}

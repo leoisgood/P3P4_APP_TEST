@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-2BN94328",
+    "children" : [ {
+      "name" : "15064-MainThread",
+      "children" : [ {
+        "name" : "[title]case02 验证正确的用户名和密码登录是否失败",
+        "uid" : "5f05098ebf561217",
+        "parentUid" : "4ac759bfbacc310d0239cddc5d4252a0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1610469330234,
+          "stop" : 1610469330235,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[title]case01 验证正确的用户名和密码能否成功登录",
+        "uid" : "f9c2a0c3bc6cc871",
+        "parentUid" : "4ac759bfbacc310d0239cddc5d4252a0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1610469330168,
+          "stop" : 1610469330168,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4ac759bfbacc310d0239cddc5d4252a0"
+    } ],
+    "uid" : "86b0590d260ab753d4f7092c2f128320"
+  } ]
+}

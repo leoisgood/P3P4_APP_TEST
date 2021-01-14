@@ -1,0 +1,75 @@
+{
+  "uid" : "fb9baa8c8d5795e0",
+  "name" : "test_add_01",
+  "fullName" : "test_demo_03.TestDemo03#test_add_01",
+  "historyId" : "e5d7c3a3e5b0904f1a3c51c19e2a706e",
+  "time" : {
+    "start" : 1610466512925,
+    "stop" : 1610466512926,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d8d9f42809eae942",
+      "name" : "stdout",
+      "source" : "d8d9f42809eae942.txt",
+      "type" : "text/plain",
+      "size" : 28
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "加法模块"
+  }, {
+    "name" : "epic",
+    "value" : "计算器系统V1.0"
+  }, {
+    "name" : "suite",
+    "value" : "test_demo_03"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestDemo03"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-2BN94328"
+  }, {
+    "name" : "thread",
+    "value" : "7508-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_demo_03"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fb9baa8c8d5795e0.json",
+  "parameterValues" : [ ]
+}

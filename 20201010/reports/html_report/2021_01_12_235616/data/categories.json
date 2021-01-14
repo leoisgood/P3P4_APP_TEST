@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "TypeError: an integer is required (got type str)",
+      "children" : [ {
+        "name" : "[title]case01 验证正确的用户名和密码能否成功登录",
+        "uid" : "956d8250971b2b61",
+        "parentUid" : "bb94ce00c2c7ea97f97083bf6c28b743",
+        "status" : "broken",
+        "time" : {
+          "start" : 1610466976377,
+          "stop" : 1610466976377,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bb94ce00c2c7ea97f97083bf6c28b743"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

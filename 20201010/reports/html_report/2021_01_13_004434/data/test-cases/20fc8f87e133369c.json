@@ -1,0 +1,138 @@
+{
+  "uid" : "20fc8f87e133369c",
+  "name" : "[title]case01 验证正确的用户名和密码能否成功登录",
+  "fullName" : "test_login_03.TestLogin03#test_login_success",
+  "historyId" : "896952954b0f868f9ffc621ff7625748",
+  "time" : {
+    "start" : 1610469875113,
+    "stop" : 1610469875113,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "步骤一：调用首页接口获取token",
+      "time" : {
+        "start" : 1610469875113,
+        "stop" : 1610469875113,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "步骤二：调用登录接口",
+      "time" : {
+        "start" : 1610469875113,
+        "stop" : 1610469875113,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "步骤三：验证判断",
+      "time" : {
+        "start" : 1610469875113,
+        "stop" : 1610469875113,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "步骤四：验证判断",
+      "time" : {
+        "start" : 1610469875113,
+        "stop" : 1610469875113,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "96b121c97fc089b2",
+      "name" : "error screenshot",
+      "source" : "96b121c97fc089b2.jpg",
+      "type" : "image/jpg",
+      "size" : 119332
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 4,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "[story]登录模块"
+  }, {
+    "name" : "epic",
+    "value" : "[epic]italki_学生管理系统"
+  }, {
+    "name" : "feature",
+    "value" : "[feature]italki_学生管理系统V1.0"
+  }, {
+    "name" : "suite",
+    "value" : "test_login_03"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin03"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-2BN94328"
+  }, {
+    "name" : "thread",
+    "value" : "15076-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_login_03"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "20fc8f87e133369c.json",
+  "parameterValues" : [ ]
+}

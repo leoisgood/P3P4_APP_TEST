@@ -10,6 +10,6 @@ import os
 # pytest.main(['-s','-v','-m smoketest or test_demo_01'])
 # pytest.main(['-s','-v','-m smoketest and test_demo_01'])
 # pytest.main(['-s','-v','-m not smoketest'])
-
+# pytest.main(['-s','-v'])
 pytest.main(['--alluredir=./allure_report','--clean-alluredir'])
 os.system( 'allure generate ./allure_report -o ./allure_html_report --clean' )

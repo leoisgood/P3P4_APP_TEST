@@ -1,0 +1,41 @@
+{
+  "896952954b0f868f9ffc621ff7625748" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "956d8250971b2b61",
+      "status" : "broken",
+      "statusDetails" : "TypeError: an integer is required (got type str)",
+      "time" : {
+        "start" : 1610466976377,
+        "stop" : 1610466976377,
+        "duration" : 0
+      }
+    } ]
+  },
+  "46b2291aaaf2b24f249ca69daef530f8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "493707c7232326eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1610466976452,
+        "stop" : 1610466976452,
+        "duration" : 0
+      }
+    } ]
+  }
+}

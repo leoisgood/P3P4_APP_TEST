@@ -1,0 +1,52 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "计算器系统V1.0",
+    "children" : [ {
+      "name" : "加法模块",
+      "children" : [ {
+        "name" : "test_add_01",
+        "uid" : "fb9baa8c8d5795e0",
+        "parentUid" : "088570be4d6a4f2c4e9370078fb0fdc2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1610466512925,
+          "stop" : 1610466512926,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_add_02",
+        "uid" : "d7bff1f4fa93efd7",
+        "parentUid" : "088570be4d6a4f2c4e9370078fb0fdc2",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1610466512927,
+          "stop" : 1610466512927,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_add_03",
+        "uid" : "26818134f943f529",
+        "parentUid" : "088570be4d6a4f2c4e9370078fb0fdc2",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1610466512930,
+          "stop" : 1610466512931,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "088570be4d6a4f2c4e9370078fb0fdc2"
+    } ],
+    "uid" : "119fc9e62cd568cf0b155308d3ac9423"
+  } ]
+}

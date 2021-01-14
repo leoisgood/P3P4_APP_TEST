@@ -1,0 +1,21 @@
+[ {
+  "uid" : "5f05098ebf561217",
+  "name" : "[title]case02 验证正确的用户名和密码登录是否失败",
+  "time" : {
+    "start" : 1610469330234,
+    "stop" : 1610469330235,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f9c2a0c3bc6cc871",
+  "name" : "[title]case01 验证正确的用户名和密码能否成功登录",
+  "time" : {
+    "start" : 1610469330168,
+    "stop" : 1610469330168,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jan 13 00:44:35 CST 2021","Wed Jan 13 00:44:35 CST 2021","0","","test_login_03","TestLogin03","","","[title]case02 验证正确的用户名和密码登录是否失败",""
+"passed","Wed Jan 13 00:44:35 CST 2021","Wed Jan 13 00:44:35 CST 2021","0","","test_login_03","TestLogin03","","","[title]case01 验证正确的用户名和密码能否成功登录",""

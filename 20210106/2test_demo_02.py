@@ -16,7 +16,7 @@ class TestDemo02:
     @pytest.mark.test_demo_02
     def test_add_02(self):
         print( 'exec TestDemo02 test_add_02' )
-        assert 1+1 == 2
+        assert 1+1 == 3
 
     @pytest.mark.test_demo_02
     def test_add_03(self):

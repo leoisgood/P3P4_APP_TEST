@@ -1,0 +1,61 @@
+{
+  "e5d7c3a3e5b0904f1a3c51c19e2a706e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fb9baa8c8d5795e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1610466512925,
+        "stop" : 1610466512926,
+        "duration" : 1
+      }
+    } ]
+  },
+  "da38f15bdd01de5d72862851d00d27fd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "26818134f943f529",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 方法内部直接跳过",
+      "time" : {
+        "start" : 1610466512930,
+        "stop" : 1610466512931,
+        "duration" : 1
+      }
+    } ]
+  },
+  "204881ed57e4354af5244505405a3c24" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d7bff1f4fa93efd7",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 条件为真时跳过",
+      "time" : {
+        "start" : 1610466512927,
+        "stop" : 1610466512927,
+        "duration" : 0
+      }
+    } ]
+  }
+}

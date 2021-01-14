@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_login_03",
+    "children" : [ {
+      "name" : "[title]case01 验证正确的用户名和密码能否成功登录",
+      "uid" : "f9c2a0c3bc6cc871",
+      "parentUid" : "c72f0ef29dd6634765b56c55b894c854",
+      "status" : "broken",
+      "time" : {
+        "start" : 1610469330168,
+        "stop" : 1610469330168,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[title]case02 验证正确的用户名和密码登录是否失败",
+      "uid" : "5f05098ebf561217",
+      "parentUid" : "c72f0ef29dd6634765b56c55b894c854",
+      "status" : "passed",
+      "time" : {
+        "start" : 1610469330234,
+        "stop" : 1610469330235,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "c72f0ef29dd6634765b56c55b894c854"
+  } ]
+}

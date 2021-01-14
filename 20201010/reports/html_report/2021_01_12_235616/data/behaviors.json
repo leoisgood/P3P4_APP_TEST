@@ -1,0 +1,43 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "[epic]italki_学生管理系统",
+    "children" : [ {
+      "name" : "[feature]italki_学生管理系统V1.0",
+      "children" : [ {
+        "name" : "[story]登录模块",
+        "children" : [ {
+          "name" : "[title]case01 验证正确的用户名和密码能否成功登录",
+          "uid" : "956d8250971b2b61",
+          "parentUid" : "d6427fb8a6bfcd56bda8a7567784bd44",
+          "status" : "broken",
+          "time" : {
+            "start" : 1610466976377,
+            "stop" : 1610466976377,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "[title]case02 验证正确的用户名和密码登录是否失败",
+          "uid" : "493707c7232326eb",
+          "parentUid" : "d6427fb8a6bfcd56bda8a7567784bd44",
+          "status" : "passed",
+          "time" : {
+            "start" : 1610466976452,
+            "stop" : 1610466976452,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "d6427fb8a6bfcd56bda8a7567784bd44"
+      } ],
+      "uid" : "ff4c834d229a187452c5e3f44047abe9"
+    } ],
+    "uid" : "4a76b9146610507dfec286e9a0931acd"
+  } ]
+}
