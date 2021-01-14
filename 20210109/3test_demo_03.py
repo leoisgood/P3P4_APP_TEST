@@ -8,6 +8,6 @@ def setUp(request):
 
 class TestDemo03:
     def testadd(self,setUp):
-        print('excute TestDemo03-->testadd')
+        print('excute TestDemo03-->tecstadd')
         assert setUp[0]+setUp[1]==setUp[2]
 
